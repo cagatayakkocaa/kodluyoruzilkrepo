@@ -4,11 +4,11 @@ Bu repo **kodluyoruz** Front-End Eğitiminde oluşturduğumuz ilk repo içerisin
 
 ## Installation ##
 ---
-öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 
 'git clone' https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
 
-![Image] (https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+![Image](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
  ## Usage ##
 ----
