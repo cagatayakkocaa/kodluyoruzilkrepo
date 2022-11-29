@@ -8,16 +8,17 @@ Bu repo **kodluyoruz** Front-End Eğitiminde oluşturduğumuz ilk repo içerisin
 
 'git clone' https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
 
-![GitHub](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+![Image] (https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
  ## Usage ##
----
+----
  Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
  Linux için:
 
- '''# cd kodluyoruzilkrepo
- print 'code .'
+ '''# *cd kodluyoruzilkrepo*
+
+ *print 'code .'*
 
  ## Contributing ##
 ---
